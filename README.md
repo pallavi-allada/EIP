@@ -1,5 +1,6 @@
 # EIP
-99.0
+Score - 99.0
+
 Convolution - It is a dot product operation of 2 matrices typically the kernel/filter with an equal sized sliding window crops of the entire image. This helps in shrinking the size of the image. o/p size of the image = [(i/p size - filter size + 2*padding)/stride size] + 1
 
 Filters/Kernels - This is a learnable matrix of values which are used in the dot product with the sliding window crops of the image. They help in edge detection.
