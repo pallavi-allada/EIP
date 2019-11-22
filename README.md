@@ -19,7 +19,7 @@ Activation Function - It is a nonlinear function applied to the output of the su
 Receptive Field - It is the amount of image that is covered by the filter, typically it is size of the filter. It is of 2 types- Local Receptive field and Global Receptive field. 
 
 
-#Session 2
+# Session 2
 Logs - 
 
 Epoch 1/20
