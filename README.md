@@ -108,4 +108,4 @@ score = model.evaluate(X_test, Y_test, verbose=0)
 print(score)
 [0.019158340132655577, 0.9944]
 
-Reduction of kernels in 2nd block helped reduce the number of parameters. No other changes have been done.
+Reduction of kernels in 2nd block from 32 to 16 helped reduce the number of parameters. Removed biases at each Conv layer and BatchNorm and Dropouts at last layer.
